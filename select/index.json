@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "焔の扉",
+  "base_artist": "FictionJunction YUUKA",
+  "createdAt": "2025-12-04T14:16:02.383146Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "焔の扉",
+      "artist": "FictionJunction YUUKA",
+      "has_synced": true,
+      "path": "select/01_焔の扉_FictionJunction_YUUKA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Honoh no Tobira [焔の扉]",
+      "artist": "FictionJunction YUUKA",
+      "has_synced": true,
+      "path": "select/02_Honoh_no_Tobira_[焔の扉]_FictionJunction_YUUKA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "焔の扉~hearty edition",
+      "artist": "FictionJunction YUUKA",
+      "has_synced": false,
+      "path": "select/03_焔の扉~hearty_edition_FictionJunction_YUUKA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "焔の扉",
+      "artist": "FictionJunction YUUKA",
+      "has_synced": true,
+      "path": "select/04_焔の扉_FictionJunction_YUUKA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "焔の扉",
+      "artist": "FictionJunction YUUKA",
+      "has_synced": true,
+      "path": "select/05_焔の扉_FictionJunction_YUUKA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "焔の扉 (オリジナル・カラオケ）",
+      "artist": "FictionJunction YUUKA",
+      "has_synced": true,
+      "path": "select/06_焔の扉_(オリジナル・カラオケ)_FictionJunction_YUUKA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "焔の扉",
+      "artist": "FictionJunction YUUKA",
+      "has_synced": false,
+      "path": "select/pl_01_焔の扉_FictionJunction_YUUKA.txt"
+    }
+  ]
+}
